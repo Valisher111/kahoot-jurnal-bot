@@ -1,0 +1,14 @@
+{
+  "_izoh": "Ovozli fikr bo'yicha ball qo'yish mezoni. AI faqat fikrni toifaga ajratadi, ballni shu jadval bo'yicha kod hisoblaydi. Raqamlarni o'zgartirib, GitHub'ga yuklasangiz, bot 10 daqiqada yangi mezon bilan ishlaydi.",
+  "min": 5,
+  "max": 10,
+  "oxirgi_baholar_soni": 5,
+  "toifalar": {
+    "alo":     {"tavsif": "juda faol, zo'r, a'lo javob berdi, boshqalarga namuna", "kamida": 9,   "ortacha_qoshimcha": 1.0, "oshmasin": 10, "bahosiz": 9.5},
+    "yaxshi":  {"tavsif": "yaxshi qatnashdi, faol bo'ldi, yaxshi javob berdi",     "kamida": 8,   "ortacha_qoshimcha": 0.5, "oshmasin": 10, "bahosiz": 8.5},
+    "harakat": {"tavsif": "harakat qildi, o'rtacha qatnashdi, urindi",            "kamida": 7,   "ortacha_qoshimcha": 0.0, "oshmasin": 8,  "bahosiz": 7},
+    "passiv":  {"tavsif": "shunchaki darsga keldi, jim o'tirdi, kam qatnashdi",   "kamida": 5,   "ortacha_qoshimcha": -1.0, "oshmasin": 6, "bahosiz": 5},
+    "salbiy":  {"tavsif": "uy ishi yaxshi emas yoki qilinmagan, tayyorlanmagan",  "kamida": 5,   "ortacha_qoshimcha": -1.0, "oshmasin": 6, "bahosiz": 5.5}
+  },
+  "kahoot_bilan_ortacha": true
+}
